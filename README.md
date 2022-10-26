@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @climber-z
 - 👀 I’m interested in robotics and UAV
 - 🌱 I’m currently learning UAV
-- 💞️ I’m looking to collaborate on robotics and UAV
+- 😃 I’m looking to collaborate on robotics and UAV
 - 📫 How to reach me: xiaoyuzhang@buaa.edu.cn
 
 <!---
